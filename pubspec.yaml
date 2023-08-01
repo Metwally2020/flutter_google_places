@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   google_api_headers: ^2.0.0
-  git:
+  google_maps_webservice:
+    git:
       url: 'https://github.com/Metwally2020/google_maps_webservice'
   http: ^1.1.0
   rxdart: ^0.27.7
